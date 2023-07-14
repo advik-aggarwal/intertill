@@ -1,0 +1,9 @@
+.whole{
+    margin-top:190px;
+}
+
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
